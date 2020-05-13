@@ -4,12 +4,12 @@ repositories:
     maintainers:
       - email: jfrog-solutionstest-ci@jfrog.com
         name: jfrogsolutiontest
-- name: jfroginclusiontest
+  - name: jfroginclusiontest
     url: https://charts.jfrog.io
     maintainers:
       - email: jfrog-solutionstest-ci@jfrog.com
         name: jfrogsolutiontest
-- name: rancher
+  - name: rancher
     url: https://releases.rancher.com/server-charts/stable
     maintainers:
       - email: jfrog-solutionstest-ci@jfrog.com
